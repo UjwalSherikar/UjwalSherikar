@@ -56,6 +56,18 @@ Data Structures & Algorithms · Databases & Backend Development · Cloud Computi
 
 ---
 
+## 🚀 Projects
+
+### 🎓 Student Management System
+
+A Java-based Student Management System using OOP and ArrayList.
+
+**Tech:** Java • OOP • ArrayList
+
+[🔗 View Project](https://github.com/UjwalSherikar/Student-Management-System)
+
+---
+
 ## 📜 Certifications
 
 > Click any certification to open **the certificate itself**. The certificate files are included in this repository under `certificates/`.
