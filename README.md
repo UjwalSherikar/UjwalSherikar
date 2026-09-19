@@ -12,11 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjwalSherikar&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/UjwalSherikar?label=Followers&style=flat-square&color=2563eb" alt="Followers" />
-</p>
-
 ---
 
 ## 👋 About Me
