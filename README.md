@@ -12,6 +12,14 @@
   </a>
 </p>
 
+<p align="center"> <img
+
+src="https://komarev.com/ghpvc/?username=UjwalSherik ar&label=Profile%20Views&color=0ea5e9&style=flat -square" alt="Profile views" /> <img
+
+src="https://img.shields.io/github/followers/UjwalSh erikar?label=Followers&style=flat-square&color= 2563eb" alt="Followers" />
+
+</p>
+
 ---
 
 ## 👋 About Me
@@ -115,10 +123,4 @@ A Java-based Student Management System using OOP and ArrayList.
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center"> <img
-
-src="https://komarev.com/ghpvc/?username=UjwalSherik ar&label=Profile%20Views&color=0ea5e9&style=flat -square" alt="Profile views" /> <img
-
 </p>
