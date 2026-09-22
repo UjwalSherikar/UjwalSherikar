@@ -121,12 +121,20 @@ The following certificates are available in this repository:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjwalSherikar&theme=github" width="100%" alt="GitHub Contribution Overview"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjwalSherikar&theme=github"
+    width="100%"
+    alt="GitHub Contribution Overview"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjwalSherikar&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalSherikar&layout=compact&theme=default&hide_border=true" width="49%" alt="Top Languages"/>
+  <a href="https://github.com/UjwalSherikar?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Repositories-14213D?style=for-the-badge&logo=github&logoColor=white"
+      alt="View My Repositories"
+    />
+  </a>
 </p>
 
 ---
