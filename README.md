@@ -1,118 +1,146 @@
-<!-- ========================================================= -->
-<!--                    UJWAL SHERIKAR                         -->
-<!-- ========================================================= -->
+
+# Hi, I'm Ujwal Sherikar 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Ujwal%20Sherikar&fontSize=58&fontAlignY=38&font=Montserrat&fontColor=FFFFFF&animation=twinkling&color=0:0F172A,50:1D4ED8,100:06B6D4" alt="Ujwal Sherikar" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Ujwal%20Sherikar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&color=0:14213D,50:2A9D8F,100:E9C46A" width="100%" alt="Ujwal Sherikar Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=B.Tech+CSE+(AI+%26+ML)+Student;Java+%26+Python+Programmer;AI+%26+ML+Enthusiast;Software+Engineering+Enthusiast" alt="Typing animation" />
+  <strong>B.Tech CSE (Artificial Intelligence & Machine Learning) Student</strong>
+  <br/>
+  Java & Python Learner | DSA Enthusiast | Aspiring Software Developer
+</p>
+
+<p align="center">
+  <a href="https://github.com/UjwalSherikar">
+    <img src="https://img.shields.io/badge/GitHub-UjwalSherikar-14213D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ujwal-sherikar-739694337">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2A9D8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-```ts
-const ujwal = {
-  name: "Ujwal Sherikar",
-  education: "B.Tech CSE — Artificial Intelligence & Machine Learning",
-  programming: ["Java", "Python"],
-  interests: [
-    "Artificial Intelligence & Machine Learning",
-    "Generative AI & AI Prompting",
-    "Software Engineering",
-    "Data Structures & Algorithms",
-    "Databases & Backend Development",
-    "Cloud Computing"
-  ],
-  certifications: 7
-};
-```
+I am a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at **SAPTHAGIRI NPS UNIVERSITY, Bengaluru**.
+
+I am developing my programming and problem-solving skills through Java, Python, Data Structures and Algorithms, and practical projects.
+
+- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
+- 💻 Programming: Java and Python
+- 🧠 Learning: Data Structures, Algorithms, and Software Development
+- 🤖 Interested in Artificial Intelligence and Generative AI
+- 🚀 Building projects to strengthen my technical skills
+- 📚 Focused on continuous learning and placement preparation
 
 ---
 
-## 🛠️ Tech Stack & Core Foundations
+## 🛠️ Technical Skills
 
-**Programming Languages:** Java · Python · C · SQL  
-**Programming Concepts:** Object-Oriented Programming · Data Structures & Algorithms  
-**Core CS:** DBMS · Operating Systems · Computer Networks  
-**Applied Foundations:** Internet of Things · Data Science Basics · Computer Organization & Architecture · Basics of Electronics & Electrical Engineering
+| Category | Skills |
+|----------|--------|
+| Programming | Java, Python, C, SQL |
+| Core Concepts | OOP, Data Structures & Algorithms |
+| Computer Science | DBMS, Operating Systems, Computer Networks |
+| Other Foundations | IoT, Data Science Basics, Computer Organization |
+| Tools | Git, GitHub, Eclipse, VS Code |
+
+> My skills are continuously improving through coursework, practice, and projects.
+
+---
+
+## 🚀 Featured Project
+
+### 🎓 Student Management System
+
+A Java-based Student Management System developed using Object-Oriented Programming and ArrayList.
+
+**Key Features:**
+- Add student records
+- View all students
+- Search students by ID
+- Update student marks
+- Delete student records
+- Calculate average marks
+- Find the top student
+- Automatic grade calculation
+- Input validation
+
+**Technologies Used:**
+- Java
+- Object-Oriented Programming
+- ArrayList
+- Java Collections
+- Scanner
+- Exception Handling
+
+🔗 **[View Student Management System](https://github.com/UjwalSherikar/Student-Management-System)**
 
 ---
 
 ## 🎯 Areas of Interest
 
-Artificial Intelligence & Machine Learning · Generative AI & AI Prompting · Software Engineering  
-Data Structures & Algorithms · Databases & Backend Development · Cloud Computing
-
----
-
-## 🚀 Projects
-
-### 🎓 Student Management System
-
-A Java-based Student Management System using OOP and ArrayList.
-
-**Tech:** Java • OOP • ArrayList
-
-[🔗 View Project](https://github.com/UjwalSherikar/Student-Management-System)
+- Artificial Intelligence and Machine Learning
+- Generative AI and Prompt Engineering
+- Java Programming
+- Python Programming
+- Data Structures and Algorithms
+- Software Engineering
+- Database and Backend Fundamentals
+- Cloud Computing
 
 ---
 
 ## 📜 Certifications
 
-> Click any certification to open **the certificate itself**. The certificate files are included in this repository under `certificates/`.
+The following certificates are available in this repository:
 
-- <a href="certificates/01-ai-for-business-professionals.png">🎓 AI for Business Professionals — HP LIFE</a>
-- <a href="certificates/02-essentials-ms-excel.png">📊 Essentials of MS Excel — Formulas and Functions — UniAthena × Cambridge International Qualifications</a>
-- <a href="certificates/03-campaign-manager-360.png">📣 Campaign Manager 360 Certification — Google</a>
-- <a href="certificates/04-network-security.png">🔐 Network Security — IBM SkillsBuild</a>
-- <a href="certificates/05-cyberops-associate.png">🌐 CyberOps Associate — Cisco Networking Academy</a>
-- <a href="certificates/06-microcontrollers-coding.png">⚙️ Introduction to Microcontrollers & Coding (Centrado Kit) — Infosys Springboard</a>
-- <a href="certificates/07-modern-ai.png">🤖 Introduction to Modern AI — Cisco Networking Academy</a>
-
-<!-- The Introduction to Cybersecurity certificate was mentioned in a LinkedIn post, but no certificate-only image was supplied. It is intentionally not linked to a third-party organisation page. Add the certificate image later as certificates/08-introduction-to-cybersecurity.png if you want it displayed here. -->
+1. [AI for Business Professionals — HP LIFE](certificates/01-ai-for-business-professionals.png)
+2. [Essentials of MS Excel — UniAthena](certificates/02-essentials-ms-excel.png)
+3. [Campaign Manager 360 Certification — Google](certificates/03-campaign-manager-360.png)
+4. [Network Security — IBM SkillsBuild](certificates/04-network-security.png)
+5. [CyberOps Associate — Cisco Networking Academy](certificates/05-cyberops-associate.png)
+6. [Introduction to Microcontrollers & Coding — Infosys Springboard](certificates/06-microcontrollers-coding.png)
+7. [Introduction to Modern AI — Cisco Networking Academy](certificates/07-modern-ai.png)
 
 ---
 
-## 📂 My Repositories
+## 📚 Current Learning Focus
 
-<p align="center">
-  <a href="https://github.com/UjwalSherikar?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20View%20My%20Repositories-2563EB?style=for-the-badge" alt="View My Repositories" />
-  </a>
-</p>
+- Strengthening Java fundamentals and OOP
+- Practicing Data Structures and Algorithms
+- Improving Python programming
+- Developing practical software projects
+- Learning AI and Machine Learning fundamentals
+- Preparing for technical interviews and placements
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjwalSherikar&theme=github_dark&animation=rise" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=UjwalSherikar&hide_border=true&theme=transparent&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjwalSherikar&theme=github" width="100%" alt="GitHub Contribution Overview"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjwalSherikar&theme=github_dark&animation=draw" alt="GitHub Contribution Overview" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjwalSherikar&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalSherikar&layout=compact&theme=default&hide_border=true" width="49%" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/UjwalSherikar">
-    <img src="https://img.shields.io/badge/GitHub-UjwalSherikar-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ujwal-sherikar-739694337">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="left">
+  <a href="https://github.com/UjwalSherikar">GitHub</a>
+  <br/>
+  <a href="https://www.linkedin.com/in/ujwal-sherikar-739694337">LinkedIn</a>
 </p>
 
+---
+
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  Thank you for visiting my GitHub profile! ⭐
 </p>
