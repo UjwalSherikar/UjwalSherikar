@@ -58,23 +58,11 @@ I am developing my programming and problem-solving skills through Java, Python, 
 A Java-based Student Management System developed using Object-Oriented Programming and ArrayList.
 
 **Key Features:**
-- Add student records
-- View all students
-- Search students by ID
-- Update student marks
-- Delete student records
-- Calculate average marks
-- Find the top student
-- Automatic grade calculation
+- Add student records, View all students
+- Search students by ID, Update student marks
+- Delete student records, Calculate average marks
+- Find the top student, Automatic grade calculation
 - Input validation
-
-**Technologies Used:**
-- Java
-- Object-Oriented Programming
-- ArrayList
-- Java Collections
-- Scanner
-- Exception Handling
 
 🔗 **[View Student Management System](https://github.com/UjwalSherikar/Student-Management-System)**
 
