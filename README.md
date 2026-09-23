@@ -78,6 +78,16 @@ A Java-based Student Management System developed using Object-Oriented Programmi
 
 🔗 **[View Student Management System](https://github.com/UjwalSherikar/Student-Management-System)**
 
+### 🔍 AI Smart Study & Exam Monitoring
+
+A Python-based computer vision project designed to monitor a student's study or exam session using a laptop webcam. The application provides face detection, possible mobile phone detection, a study timer, and real-time alerts.
+
+**Technologies Used:** Python, OpenCV, YOLO, Tkinter, and Pillow.
+
+**Project Status:** Working Prototype (Version 1.0)
+
+🔗 **[View AI Smart Study & Exam Monitoring Project](https://github.com/UjwalSherikar/AI-Smart-Study-Exam-Monitoring)**
+
 ---
 
 ## 🎯 Areas of Interest
