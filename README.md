@@ -74,7 +74,7 @@ A Python-based computer vision project designed to monitor a student's study or 
 
 **Project Status:** Working Prototype (Version 1.0)
 
-🔗 **[View AI Smart Study & Exam Monitoring Project](https://github.com/UjwalSherikar/AI-Smart-Study-Exam-Monitoring)**
+🔗 **[View AI Smart Study Exam Monitoring ](https://github.com/UjwalSherikar/AI-Smart-Study-Exam-Monitoring)**
 
 ---
 
